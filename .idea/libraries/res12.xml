@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="res1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Waylon Driver/app/src/main/res/weRideDriver.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Waylon Driver/app/src/main/res/driver.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

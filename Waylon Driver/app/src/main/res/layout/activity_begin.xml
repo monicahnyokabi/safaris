@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@android:color/white"
+        android:orientation="vertical"
+        android:layout_gravity ="center"
+        android:weightSum="1">
+
+        <!-- <ImageView
+              android:id="@+id/imageView2"
+              android:layout_width="150dp"
+              android:layout_height="150dp"
+              android:layout_gravity="center_horizontal"
+              android:layout_marginTop="30dp"
+              android:src="@drawable/logo" /> -->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/logosplash"
+            android:layout_margin="15dp"
+            />
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:layout_weight="7.2"
+          android:gravity="center"
+          android:orientation="vertical">
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:gravity="center|center_vertical"
+              android:layout_margin="@dimen/_5sdp"
+              android:weightSum="1"
+              >
+
+              <com.waylon.driver.Utilities.MyTextView
+                  android:id="@+id/login_new"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:background="@drawable/border_stroke_black"
+                  android:layout_weight=".5"
+                  android:padding="10dp"
+                  android:gravity="center"
+                  android:text="@string/new_login"
+                  android:textColor="@color/black_text_color"
+                  android:textSize="16sp" />
+
+              <com.waylon.driver.Utilities.MyTextView
+                  android:id="@+id/register_new"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_marginLeft="8dp"
+                  android:padding="10dp"
+                  android:layout_weight=".5"
+                  android:background="@color/colorPrimary"
+                  android:gravity="center"
+                  android:text="@string/new_register"
+                  android:textColor="@color/text_color_white"
+                  android:textSize="16sp" />
+          </LinearLayout>
+
+
+          <!--<com.goti.partners.Utilities.MyBoldTextView-->
+            <!--android:text="@string/get_moving_with_tranxit"-->
+            <!--android:textSize="@dimen/_15sdp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:padding="10dp"/>-->
+
+        <!--<View-->
+            <!--android:background="@color/cardview_shadow_start_color"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1dp">-->
+
+        <!--&lt;!&ndash;</View>&ndash;&gt;-->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="horizontal">-->
+            <!--<ImageView-->
+                <!--android:src="@drawable/mail_icon"-->
+                <!--android:layout_width="@dimen/_25sdp"-->
+                <!--android:layout_height="@dimen/_25sdp"-->
+                <!--android:layout_margin="10dp"-->
+                <!--/>-->
+
+            <!--<com.goti.partners.Utilities.MyTextView-->
+                <!--android:id="@+id/enter_ur_mailID"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:gravity="center|left"-->
+                <!--android:layout_margin="10dp"-->
+                <!--android:textColor="@color/cardview_shadow_start_color"-->
+                <!--android:textSize="@dimen/_14sdp"-->
+                <!--android:text="@string/enter_your_mail_id"/>-->
+        <!--</LinearLayout>-->
+
+        <!--<View-->
+            <!--android:background="@color/cardview_shadow_start_color"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1dp">-->
+
+        <!--</View>-->
+
+        <!--<com.goti.partners.Utilities.MyTextView-->
+            <!--android:text="@string/or_connect_with_social_media"-->
+            <!--android:textColor="@android:color/holo_blue_light"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:id="@+id/connect_social"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textSize="@dimen/_14sdp"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_marginBottom="10dp"/>-->
+
+    </LinearLayout>
+
+</LinearLayout>

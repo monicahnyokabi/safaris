@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019104390547",
+    "firebase_url": "https://waylon-driver-36a8e.firebaseio.com",
+    "project_id": "waylon-driver-36a8e",
+    "storage_bucket": "waylon-driver-36a8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019104390547:android:7c065539f8641938094c66",
+        "android_client_info": {
+          "package_name": "com.waylon.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019104390547-tffqv0huqgv33ca477bhb9umcdss38ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKV769_zv1GD3l0DFHwPUcr5P4wZCxgv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019104390547-tffqv0huqgv33ca477bhb9umcdss38ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

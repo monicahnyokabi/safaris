@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3e7fbe4-b002-4042-9323-d7c9ce2a8524" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/release/app-release.aab" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/release/app-release.aab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Activities/ActivityHelp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Activities/ActivityHelp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Activities/HistoryDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Activities/HistoryDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Fragments/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Fragments/HomeFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Fragments/PastTrips.java" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/app/src/main/java/com/waylon/passenger/Fragments/PastTrips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Waylon Passenger/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Waylon Passenger/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Waylon Passenger" />
+  </component>
+  <component name="ProjectId" id="1tc2pz6OT2koMBlNY2DkY546ZeU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3e7fbe4-b002-4042-9323-d7c9ce2a8524" name="Default Changelist" comment="" />
+      <created>1623054243509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623054243509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="24" key="CommitChangelistDialog2" timestamp="1623054787606">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="357" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1623054787606" />
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1623054865101">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1623054865101" />
+    <state x="100" y="100" width="1400" height="660" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1623068035815">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="100" y="100" width="1400" height="660" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1600.860@0.0.1600.860" timestamp="1623068035815" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1623594926109">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1623594926109" />
+  </component>
+</project>
